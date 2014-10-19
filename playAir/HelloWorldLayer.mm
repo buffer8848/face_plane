@@ -3,6 +3,7 @@
 //  playAir
 //
 //  Created by lcc on 13-8-23.
+//  Update by buffer(binfeix.li@intel.com or 179770346@qq.com) on 14-10-15
 //  Copyright __MyCompanyName__ 2013年. All rights reserved.
 //
 
